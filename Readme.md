@@ -17,6 +17,9 @@ This is a weather application that allows users to get the current weather infor
    git clone <repository_url>
      cd weather-app
 
+Published link 
+https://weatherproj.ccbp.tech/
+
 Known Issues or Limitations
 Ensure you replace 4ddd17954db6f19d1f023328a8241499 in script.js with a valid API key from Open Weather.
 The application currently handles only one location at a time.
